@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 8387095be20a61b4e87b82323c38f64c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5583661844261081541
+    second: SS_FrogCharacter_0
+  - first:
+      213: -6804077972165601010
+    second: SS_FrogCharacter_1
+  - first:
+      213: -4481306307142622161
+    second: SS_FrogCharacter_2
+  - first:
+      213: 8401398844833695447
+    second: SS_FrogCharacter_3
+  - first:
+      213: 2767612487759314497
+    second: SS_FrogCharacter_4
+  - first:
+      213: -7904134982134155869
+    second: SS_FrogCharacter_5
+  - first:
+      213: 4369148418087532287
+    second: SS_FrogCharacter_6
+  - first:
+      213: 3602625398185887862
+    second: SS_FrogCharacter_7
+  - first:
+      213: 4397287911749909293
+    second: SS_FrogCharacter_8
+  - first:
+      213: 313422251937436311
+    second: SS_FrogCharacter_9
+  - first:
+      213: 4616260948380758671
+    second: SS_FrogCharacter_10
+  - first:
+      213: -4919220310992960910
+    second: SS_FrogCharacter_11
+  - first:
+      213: 4535362201364761567
+    second: SS_FrogCharacter_12
+  - first:
+      213: -5250440993067394205
+    second: SS_FrogCharacter_13
+  - first:
+      213: -5125197965670462349
+    second: SS_FrogCharacter_14
+  - first:
+      213: 6448366095581397426
+    second: SS_FrogCharacter_15
+  - first:
+      213: 8561982412139331457
+    second: SS_FrogCharacter_16
+  - first:
+      213: 3847704752882127781
+    second: SS_FrogCharacter_17
+  - first:
+      213: 8313794992673670911
+    second: SS_FrogCharacter_18
+  - first:
+      213: 982251110767468086
+    second: SS_FrogCharacter_19
+  - first:
+      213: 5382318452070658833
+    second: SS_FrogCharacter_20
+  - first:
+      213: 7735884243866215690
+    second: SS_FrogCharacter_21
+  - first:
+      213: 3519242022157902371
+    second: SS_FrogCharacter_22
+  - first:
+      213: 3625058901929469432
+    second: SS_FrogCharacter_23
+  - first:
+      213: 2705276749883741701
+    second: SS_FrogCharacter_24
+  - first:
+      213: -5565475932667444516
+    second: SS_FrogCharacter_25
+  - first:
+      213: 7694188134663941133
+    second: SS_FrogCharacter_26
+  - first:
+      213: -2869871696192868206
+    second: SS_FrogCharacter_27
+  - first:
+      213: -2530544553467825430
+    second: SS_FrogCharacter_28
+  - first:
+      213: 6098730970890054772
+    second: SS_FrogCharacter_29
+  - first:
+      213: 8023401150192033758
+    second: SS_FrogCharacter_30
+  - first:
+      213: -5474648284082997150
+    second: SS_FrogCharacter_31
+  - first:
+      213: -6009717058236074140
+    second: SS_FrogCharacter_32
+  - first:
+      213: 5733248858409441445
+    second: SS_FrogCharacter_33
+  - first:
+      213: 1595930834613674533
+    second: SS_FrogCharacter_34
+  - first:
+      213: -8385125226545047793
+    second: SS_FrogCharacter_35
+  - first:
+      213: 3601670716504655481
+    second: SS_FrogCharacter_36
+  - first:
+      213: 1694635701257392696
+    second: SS_FrogCharacter_37
+  - first:
+      213: 5299960839210252148
+    second: SS_FrogCharacter_38
+  - first:
+      213: -4489988042278772440
+    second: SS_FrogCharacter_39
+  - first:
+      213: -6481426525099438375
+    second: SS_FrogCharacter_40
+  - first:
+      213: 7304362843712073732
+    second: SS_FrogCharacter_41
+  - first:
+      213: -1235215452851582279
+    second: SS_FrogCharacter_42
+  - first:
+      213: 6661134824910050858
+    second: SS_FrogCharacter_43
+  - first:
+      213: 6720721196471690565
+    second: SS_FrogCharacter_44
+  - first:
+      213: 4952953524087448218
+    second: SS_FrogCharacter_45
+  - first:
+      213: -1082815020090789723
+    second: SS_FrogCharacter_46
+  - first:
+      213: 4465229349481033618
+    second: SS_FrogCharacter_47
+  - first:
+      213: 2150333011714554657
+    second: SS_FrogCharacter_48
+  - first:
+      213: 2838881712569871567
+    second: SS_FrogCharacter_49
+  - first:
+      213: 7502711777665651607
+    second: SS_FrogCharacter_50
+  - first:
+      213: -7276226331713371824
+    second: SS_FrogCharacter_51
+  - first:
+      213: -603429265491369733
+    second: SS_FrogCharacter_52
+  - first:
+      213: -6133033434029198288
+    second: SS_FrogCharacter_53
+  - first:
+      213: -1419885048178026458
+    second: SS_FrogCharacter_54
+  - first:
+      213: -5424324570827484242
+    second: SS_FrogCharacter_55
+  - first:
+      213: -4469285538616701147
+    second: SS_FrogCharacter_56
+  - first:
+      213: 1792313878321771691
+    second: SS_FrogCharacter_57
+  - first:
+      213: -3482222875800963458
+    second: SS_FrogCharacter_58
+  - first:
+      213: -831440686830845451
+    second: SS_FrogCharacter_59
+  - first:
+      213: -8282429819344936894
+    second: SS_FrogCharacter_60
+  - first:
+      213: 9154094474640971272
+    second: SS_FrogCharacter_61
+  - first:
+      213: 3005269636554263458
+    second: SS_FrogCharacter_62
+  - first:
+      213: 5473453906985999660
+    second: SS_FrogCharacter_63
+  - first:
+      213: -116218925583343752
+    second: SS_FrogCharacter_64
+  - first:
+      213: 8983601414671168527
+    second: SS_FrogCharacter_65
+  - first:
+      213: 4537556990352002370
+    second: SS_FrogCharacter_66
+  - first:
+      213: -7513813160945882477
+    second: SS_FrogCharacter_67
+  - first:
+      213: -5126580590259221882
+    second: SS_FrogCharacter_68
+  - first:
+      213: 2858003545668265196
+    second: SS_FrogCharacter_69
+  - first:
+      213: 6494358212029558416
+    second: SS_FrogCharacter_70
+  - first:
+      213: -2178170517202291508
+    second: SS_FrogCharacter_71
+  - first:
+      213: -7346085352806584282
+    second: SS_FrogCharacter_72
+  - first:
+      213: 1659451475289656911
+    second: SS_FrogCharacter_73
+  - first:
+      213: 3916224980507049017
+    second: SS_FrogCharacter_74
+  - first:
+      213: 5485345964244620940
+    second: SS_FrogCharacter_75
+  - first:
+      213: -1381211574698275574
+    second: SS_FrogCharacter_76
+  - first:
+      213: -4290880750624150712
+    second: SS_FrogCharacter_77
+  - first:
+      213: 8817976267931732782
+    second: SS_FrogCharacter_78
+  - first:
+      213: -3129800182302725543
+    second: SS_FrogCharacter_79
+  - first:
+      213: -8282787918761950117
+    second: SS_FrogCharacter_80
+  - first:
+      213: 4591536994864120573
+    second: SS_FrogCharacter_81
+  - first:
+      213: 5762827359086682761
+    second: SS_FrogCharacter_82
+  - first:
+      213: -2410554804006424782
+    second: SS_FrogCharacter_83
+  - first:
+      213: -8448607019620377005
+    second: SS_FrogCharacter_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_FrogCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 530
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e6aead229d282b0800000000000000
+      internalID: -5583661844261081541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 535
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095205422f0391a0800000000000000
+      internalID: -6804077972165601010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 530
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24eb0918a33fc1c0800000000000000
+      internalID: -4481306307142622161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 533
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d680b2acb3c79470800000000000000
+      internalID: 8401398844833695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 538
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e34d8e4e8886620800000000000000
+      internalID: 2767612487759314497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 533
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b7259c1fde4290800000000000000
+      internalID: -7904134982134155869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 530
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff63117665552ac30800000000000000
+      internalID: 4369148418087532287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 533
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788bad46b81ff130800000000000000
+      internalID: 3602625398185887862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 493
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf8f2de0e460d30800000000000000
+      internalID: 4397287911749909293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 498
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921f67a0ef795400800000000000000
+      internalID: 313422251937436311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 493
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823eb2efd0401040800000000000000
+      internalID: 4616260948380758671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 496
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c067b03b6bbbb0800000000000000
+      internalID: -4919220310992960910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 501
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb841c84e7d0fe30800000000000000
+      internalID: 4535362201364761567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 496
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b911e1cbfa227b0800000000000000
+      internalID: -5250440993067394205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 493
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c48acca93afd8b0800000000000000
+      internalID: -5125197965670462349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 496
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14dcc8cc23d7950800000000000000
+      internalID: 6448366095581397426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 458
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff4b8f3a542d670800000000000000
+      internalID: 8561982412139331457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 458
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31f14361bc56530800000000000000
+      internalID: 3847704752882127781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 458
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64cb95f78806370800000000000000
+      internalID: 8313794992673670911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 461
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e17895e28a1ad00800000000000000
+      internalID: 982251110767468086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 461
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b3bb8d16d1ba40800000000000000
+      internalID: 5382318452070658833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 461
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ef2bbbb16b5b60800000000000000
+      internalID: 7735884243866215690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 425
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322695139fbd6d030800000000000000
+      internalID: 3519242022157902371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 425
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5af5b6ddbce4230800000000000000
+      internalID: 3625058901929469432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 425
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50691ffeed21b8520800000000000000
+      internalID: 2705276749883741701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 428
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20f5b502573c2b0800000000000000
+      internalID: -5565475932667444516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 428
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6ba9c75f37ca60800000000000000
+      internalID: 7694188134663941133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 428
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f975c5ea2c28d0800000000000000
+      internalID: -2869871696192868206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23042d223b1ecd0800000000000000
+      internalID: -2530544553467825430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 390
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c239c618b03a450800000000000000
+      internalID: 6098730970890054772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 390
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf18a716d8d85f60800000000000000
+      internalID: 8023401150192033758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f70d34642604b0800000000000000
+      internalID: -5474648284082997150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 390
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467bb372d22399ca0800000000000000
+      internalID: -6009717058236074140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 393
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8986ee577909f40800000000000000
+      internalID: 5733248858409441445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 393
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522ad3373a2e52610800000000000000
+      internalID: 1595930834613674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 393
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f079d92680d02ab80800000000000000
+      internalID: -8385125226545047793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 393
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cf272f64bbf130800000000000000
+      internalID: 3601670716504655481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 393
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325425113e848710800000000000000
+      internalID: 1694635701257392696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477bb988d4e3d8940800000000000000
+      internalID: 5299960839210252148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 350
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e83e1aab50b1c0800000000000000
+      internalID: -4489988042278772440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 350
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de47ad5ae85d06a0800000000000000
+      internalID: -6481426525099438375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 331
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40035026e4f4e5560800000000000000
+      internalID: 7304362843712073732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba45bf0712abdee0800000000000000
+      internalID: -1235215452851582279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 353
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265fbfb4da117c50800000000000000
+      internalID: 6661134824910050858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 353
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545222ef15cc44d50800000000000000
+      internalID: 6720721196471690565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 353
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9260400dfc6cb440800000000000000
+      internalID: 4952953524087448218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 334
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f70ae97119f0f0800000000000000
+      internalID: -1082815020090789723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 352
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f27708f6ea7fd30800000000000000
+      internalID: 4465229349481033618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 293
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bba003b7487dd10800000000000000
+      internalID: 2150333011714554657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 293
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc641560ebb56720800000000000000
+      internalID: 2838881712569871567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 293
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79396e75c9cfe1860800000000000000
+      internalID: 7502711777665651607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 293
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05181e0d3b6a50b90800000000000000
+      internalID: -7276226331713371824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 296
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ef47b74030a7f0800000000000000
+      internalID: -603429265491369733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347811069613eaa0800000000000000
+      internalID: -6133033434029198288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_54
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 296
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628d571521e8b4ce0800000000000000
+      internalID: -1419885048178026458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 296
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39769ca8de8b4b0800000000000000
+      internalID: -5424324570827484242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f06fe5b78e9f1c0800000000000000
+      internalID: -4469285538616701147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 247
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43f5be9f39fd810800000000000000
+      internalID: 1792313878321771691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 242
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f42b7eb8acafc0800000000000000
+      internalID: -3482222875800963458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 242
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f104a9b9112674f0800000000000000
+      internalID: -831440686830845451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 205
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a7d426f5ee0d80800000000000000
+      internalID: -8282429819344936894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 210
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80657599c60e90f70800000000000000
+      internalID: 9154094474640971272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8515dfccd4b920800000000000000
+      internalID: 3005269636554263458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 183
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddf5c245d95fb40800000000000000
+      internalID: 5473453906985999660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_64
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 205
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f5d60c08b136ef0800000000000000
+      internalID: -116218925583343752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04fb25b3e92cac70800000000000000
+      internalID: 8983601414671168527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 170
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d850eaa04a8fe30800000000000000
+      internalID: 4537556990352002370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6a217db299b790800000000000000
+      internalID: -7513813160945882477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 137
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68acf2d6d1abad8b0800000000000000
+      internalID: -5126580590259221882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42d5a151ba9a720800000000000000
+      internalID: 2858003545668265196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea920a268902a50800000000000000
+      internalID: 6494358212029558416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4bded747595c1e0800000000000000
+      internalID: -2178170517202291508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207348fa467d0a90800000000000000
+      internalID: -7346085352806584282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e43aa135e870710800000000000000
+      internalID: 1659451475289656911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c32a7eed9395630800000000000000
+      internalID: 3916224980507049017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 102
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865ce4871ddf1c40800000000000000
+      internalID: 5485345964244620940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d837a0463f4dce0800000000000000
+      internalID: -1381211574698275574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 62
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b6c7df0bab374c0800000000000000
+      internalID: -4290880750624150712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b45ef22bebf5a70800000000000000
+      internalID: 8817976267931732782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa4eb0157b094d0800000000000000
+      internalID: -3129800182302725543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540c40a540ad0d80800000000000000
+      internalID: -8282787918761950117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c0ffd19a68bf30800000000000000
+      internalID: 4591536994864120573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a34843fca9ff40800000000000000
+      internalID: 5762827359086682761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe59b6d2dfb8ed0800000000000000
+      internalID: -2410554804006424782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_FrogCharacter_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed7a4ada480ca80800000000000000
+      internalID: -8448607019620377005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
