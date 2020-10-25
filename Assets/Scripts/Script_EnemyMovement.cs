@@ -53,6 +53,8 @@ public class Script_EnemyMovement : MonoBehaviour
         if(collision.tag == "Player")
         {
             GameObject.FindGameObjectWithTag("GameMana").GetComponent<Script_GameMana>().RemoveLife();
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            player.GetComponent<AudioSource>().PlayOneShot(player.GetComponent<Script_PlayerMovement>().HitEnemy);
         }
     }
 }

@@ -19,9 +19,9 @@ public class Script_MapScroll : MonoBehaviour
         transform.position = new Vector3(0.0f, 39.0f);
         foreach (Transform child in transform)
         {
-                child.gameObject.SetActive(true);
-                child.position = new Vector2(Random.Range(-2.5f, 2.5f), child.position.y);
-            }
+            child.gameObject.SetActive(true);
+            child.position = new Vector2(Random.Range(-2.5f, 2.5f), child.position.y);
+        }
     }
 
     private void _Move()

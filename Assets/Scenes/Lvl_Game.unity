@@ -1822,6 +1822,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MoveSpeed: 5
   Tongue: {fileID: 354260003}
+  PickupCoin: {fileID: 8300000, guid: 1b88b28834d5a0c41a45231c471b0306, type: 3}
+  PickupHeart: {fileID: 8300000, guid: 60b1a36a3b6815f4abfd074dceb83c5e, type: 3}
+  HitEnemy: {fileID: 8300000, guid: 9d8003ed15e879e41862ff2602adaf2c, type: 3}
+  KilledEnemy: {fileID: 8300000, guid: 20758e15b14e829428866885b3f27417, type: 3}
 --- !u!50 &1023319798
 Rigidbody2D:
   serializedVersion: 4

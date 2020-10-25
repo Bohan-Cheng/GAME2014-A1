@@ -14,6 +14,11 @@ public class Script_PlayerMovement : MonoBehaviour
 
     bool CanFire = true;
 
+    public AudioClip PickupCoin;
+    public AudioClip PickupHeart;
+    public AudioClip HitEnemy;
+    public AudioClip KilledEnemy;
+
     void Start()
     {
         anim = GetComponent<Animator>();

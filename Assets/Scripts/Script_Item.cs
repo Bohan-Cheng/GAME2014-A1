@@ -22,14 +22,16 @@ public class Script_Item : MonoBehaviour
 
     public void DoStuff(Collider2D col)
     {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (Coin)
         {
             GameObject.FindGameObjectWithTag("GameMana").GetComponent<Script_GameMana>().AddScore(10);
-            col.GetComponent<AudioSource>().PlayOneShot(col.GetComponent<AudioSource>().clip);
+            player.GetComponent<AudioSource>().PlayOneShot(player.GetComponent<Script_PlayerMovement>().PickupCoin);
         }
         if (Heart)
         {
             GameObject.FindGameObjectWithTag("GameMana").GetComponent<Script_GameMana>().AddLife();
+            player.GetComponent<AudioSource>().PlayOneShot(player.GetComponent<Script_PlayerMovement>().PickupHeart);
         }
         gameObject.SetActive(false);
     }
