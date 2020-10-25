@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lvl_Game02.unity
     guid: b1a34469385a2be4c8d4bfe876511075
+  - enabled: 1
+    path: Assets/Scenes/Lvl_HTP.unity
+    guid: 8523ef9071761464a9f28fd6b88919b0
   m_configObjects: {}
