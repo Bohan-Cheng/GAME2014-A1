@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_Harder.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script contians difficalty change funciton
+// History: None
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

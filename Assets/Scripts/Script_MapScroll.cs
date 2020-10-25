@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_MapScroll.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script scrolls the tile maps vertically and reset if pass the player comera
+// History: None
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

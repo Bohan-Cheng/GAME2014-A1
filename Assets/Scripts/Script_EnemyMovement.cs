@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_EnemyMovement.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script coontrols the enemy, enemy will go left and right in random speeds and detect player collision
+// History: Initialized, added new method of playing sound clip
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

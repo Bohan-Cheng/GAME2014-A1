@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_PlayerMovement.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script controls the player movement Fire and contians all sound clips
+// History: None
+
+using System.Collections;
 using System.Collections.Generic;
 using System.Xml.Serialization;
 using TMPro;

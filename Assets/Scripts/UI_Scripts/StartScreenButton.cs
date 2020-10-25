@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// StartScreenButton.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script cointians functionalities for buttons in menu screen
+// History: Added button to How to Play scene and added back button
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_Tongue.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script handles different collision with enemies and items
+// History: Added new method to play sound clips
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_SceneMana.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script decides what to happen when a scene is loaded
+// History: None
+
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;

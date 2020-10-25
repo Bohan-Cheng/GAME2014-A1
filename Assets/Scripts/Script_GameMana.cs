@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿// Script_GameMana.cs
+// Student Name: Bohan Cheng
+// Student #: 101130599
+// Last Modified: 2020/10/25
+// Description: This script handles the UI update and level difficalties
+// History: Added make it harder function
+
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
