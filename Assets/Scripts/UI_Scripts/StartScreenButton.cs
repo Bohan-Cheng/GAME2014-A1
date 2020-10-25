@@ -5,22 +5,22 @@ using UnityEngine.SceneManagement;
 
 public class StartScreenButton : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     // Event for the start screen
-    public void OnButtonPressed()
+    public void OnStartButtonPressed()
     {
         Debug.Log("Start screen pressed.");
         SceneManager.LoadScene("Lvl_Game");
+    }
+
+    public void OnHTPButtonPressed()
+    {
+        Debug.Log("HTP screen pressed.");
+        SceneManager.LoadScene("Lvl_HTP");
+    }
+
+    public void OnBackButtonPressed()
+    {
+        Debug.Log("Back screen pressed.");
+        SceneManager.LoadScene("Lvl_Start");
     }
 }
